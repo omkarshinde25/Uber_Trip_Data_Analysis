@@ -1,4 +1,4 @@
-# UBER Trip Data Analysis - using SQLite & Power BI 
+# UBER Trip Data Analysis - using SQLite & Power BI
 
 ## NOW: I performed data analysis using Python, Pandas, NumPy, Matplotlib, and Seaborn.
 
